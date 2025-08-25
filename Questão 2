@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Exercícios</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <h1>Cadastro de Usuário</h1>
+    <form action="" method="get" accept-charset="utf-8">
+      
+      <label for="Name">Name completo:</label><br />
+      <input type="text" name="" id="Name" value="" /> <br /> <br />
+      
+      <label for="Mail">Email:</label><br />
+      <input type="Mail" name="" id="Mail" value="" /> <br /> <br />
+      
+      <label for="Password">Senha:</label><br />
+      <input type="password" name="" id="Password" value="" /> <br /> <br />
+      
+      <input type="submit" name="" id="Name" value="Cadastrar"/> <br /> <br />
+      
+    </form>
+  </body>
+</html>

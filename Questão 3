@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Exercícios</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    
+     <h1>Horário de Aulas</h1> <br />
+      <table border="1" cellspacing="0" cellpadding="10">
+        <tr>
+          <th>Produto</th>
+          <th>Preço</th>
+          <th>Quantidade em Estoque</th>
+        </tr>
+        <tr>
+          <td>Notebook</td>
+          <td>R$ 3.500,00</td>
+          <td>12</td>
+        </tr>
+        <tr>
+          <td>Mouse Gamer</td>
+          <td>R$ 120,00</td>
+          <td>30</td>
+        </tr>
+        <tr>
+          <td>Teclado Mecânico</td>
+          <td>R$ 280,00</td>
+          <td>20</td>
+        </tr>
+      </table>
+      
+    <h1>Cadastro de Usuário</h1>
+    <form action="" method="get" accept-charset="utf-8">
+      
+      <label for="Name">Name do Cliente:</label><br />
+      <input type="text" name="" id="Name" value="" /> <br /> <br />
+      
+      <label for="Product">Produto Desejado:</label><br />
+      <select name="" id="Product"> 
+        <option>Notebook</option>
+        <option>Mouse Gamer</option>
+        <option>Teclado Mecânico</option>
+      </select> <br /> <br />
+      
+      <label for="Quantity">Quantidade:</label><br />
+      <input type="text" name="" id="Quantity" value="" /> <br /> <br />
+      
+      <input type="submit" name="" id="Name" value="Enviar Pedido"/> <br /> <br />
+      
+    </form>
+  </body>
+</html>

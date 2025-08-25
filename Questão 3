@@ -30,7 +30,7 @@
         </tr>
       </table>
       
-    <h1>Cadastro de Usuário</h1>
+    <h1>Formulário de Pedido</h1>
     <form action="" method="get" accept-charset="utf-8">
       
       <label for="Name">Name do Cliente:</label><br />

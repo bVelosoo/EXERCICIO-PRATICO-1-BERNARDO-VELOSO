@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Exercícios</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    
+    <h1>Horário de Aulas</h1> <br />
+      <table border="1">
+        <tr>
+          <th>Diciplina</th>
+          <th>Professor</th>
+          <th>Horário</th>
+        </tr>
+        <tr>
+          <td>Matemática</td>
+          <td>Prof. João</td>
+          <td>08:00 - 09:00</td>
+        </tr>
+        <tr>
+          <td>História</td>
+          <td>Prof. Mario</td>
+          <td>09:00 - 10:00</td>
+        </tr>
+        <tr>
+          <td>Português</td>
+          <td>Prof. Gabriel</td>
+          <td>10:00 - 11:00</td>
+        </tr>
+        <tr>
+          <td>Ingles</td>
+          <td>Prof. Jorge</td>
+          <td>11:00 - 12:00</td>
+        </tr>
+      </table>
+  </body>
+</html>
